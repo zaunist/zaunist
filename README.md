@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm 阿杰鲁
+
+- 🌱 I’m currently learning to develop AI powered APP with React.
+- 🔭 I'm looking a full-time job, preferably remote.
+- 👯 I'm familiar with kubernetes, docker, react, golang, typescript.
+- 📫 How to reach me: y.bz@foxmail.com
+- 📸 Learn more about me: https://zaunist.com/about
+
+If you find my creation helpful, please consider sponsoring:
+
+- 🥤 爱发电：https://ifdian.net/a/zaunist
+  
 <!--
 **zaunist/zaunist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
