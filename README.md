@@ -11,6 +11,7 @@ I'm 阿杰鲁
 If you find my creation helpful, please consider sponsoring:
 
 - 🥤 爱发电：https://ifdian.net/a/zaunist
+- 🍮 Buymeacoffee: https://buymeacoffee.com/real_zaunist
   
 <!--
 **zaunist/zaunist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
