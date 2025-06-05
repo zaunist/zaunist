@@ -3,7 +3,6 @@
 I'm 阿杰鲁
 
 - 🌱 I’m currently learning to develop AI powered APP with React.
-- 🔭 I'm looking a full-time job, preferably remote.
 - 👯 I'm familiar with kubernetes, docker, react, golang, typescript.
 - 📫 How to reach me: y.bz@foxmail.com
 - 📸 Learn more about me: https://zaunist.com/about
