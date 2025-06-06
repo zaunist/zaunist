@@ -5,7 +5,7 @@ I'm 阿杰鲁
 - 🌱 I’m currently learning to develop AI powered APP with React.
 - 👯 I'm familiar with kubernetes, docker, react, golang, typescript.
 - 📫 How to reach me: y.bz@foxmail.com
-- 📸 Learn more about me: https://zaunist.com/about
+- 📸 Learn more about me: https://dddd.moe/about
 
 If you find my creation helpful, please consider sponsoring:
 
